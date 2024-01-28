@@ -38,3 +38,7 @@ Para isso, basta abrir um novo terminal e executar o arquivo "requirements.txt" 
 
 Por fim, para executar o processo basta utilizar o terminal para inicializar a aplicação streamlit com o seguinte comando:
 > streamlit run .\Home.py
+
+#### 5. Acesso Web
+Também é possivel acessar o projeto diretamente na web através do link:
+> https://techchallenge4-g50.streamlit.app/
