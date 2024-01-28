@@ -24,9 +24,10 @@ def main():
     Primeiro é necessário executar toda a pagina "Model", nela será carregado o Dataframe e em seguida será aplicado o modelo
     de Machine Learning escolhido pelo usuário.
     Para executar a pagina basta clicar nos seguintes botoes:
-    - Carregar Dados
-    - Executar Modelo (selecionando o modelo desejado)
-    - Gravar Dados
+    - Busca dos dados;
+    - Seleção e Configuração do modelo;
+    - Execução do modelo;
+    - Analise dos Dados e Metricas Retornadas.
     
     Após completar o fluxo de coleta dos dados, a pagina "Data Visualization" ficará disponivel para execução. 
     Basta clicar no botão "Carregar Graficos" e todas as visualizações serão carregadas com base nos dados coletados.

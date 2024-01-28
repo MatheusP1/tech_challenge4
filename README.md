@@ -15,6 +15,7 @@ necessario definir o interpretador python que será utilizado nesse projeto para
 
 No canto inferior direito, clique na aba onde definimos o interpretador do projeto.
 ![image](https://github.com/MatheusP1/tech_challenge4/assets/43751101/3952bd1b-fbef-4502-84f8-465119ca7637)
+
 (Nesse caso o interpretador está indefinido)
 E em seguida, clique em "Configurações do Interpretador" ou "Interpreter Settings"
 

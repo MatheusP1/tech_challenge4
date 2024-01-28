@@ -173,7 +173,7 @@ def construcao_df_prophet(df, previsao):
 
 st.title("Machine Learning Models")
 st.markdown("""Esta página web foi desenvolvida com o propósito de facilitar a execução de modelos de séries temporais, 
-oferecendo ao usuário a opção de escolher entre os modelos Prophet ou LSTM
+oferecendo ao usuário a opção de escolher entre os modelos Prophet ou LSTM.
 
 A execução se da através dos seguintes passos:""")
 st.caption("1. Busca dos dados;")
