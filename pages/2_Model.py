@@ -41,7 +41,7 @@ def load_data():
                 dados.append([data, preco])
 
     df_base = pd.DataFrame(dados[2:], columns=['data', 'valor'])
-    df_base['data'] = pd.to_datetime(df_base['data'])
+    df_base['data'] = pd.to_datetime(df_base['data'], format='%d/%m/%Y')
     df_base['valor'] = df_base['valor'].astype(float)
     df_base.set_index('data', inplace=True)
     df_base = df_base.asfreq('D').fillna(method='bfill')
